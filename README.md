@@ -21,5 +21,9 @@
 
 -Tailwind CSS: Custom styling is applied using CSS to ensure a visually appealing and responsive layout.
 
+**Deployment**
+The application is hosted using Render, a cloud platform that simplifies the deployment of web applications. You can access the live site .
+https://rekise-marine-a.onrender.com
+
 Contributors
 Aditya Patil - Lead Developer
